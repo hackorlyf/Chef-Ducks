@@ -375,6 +375,7 @@
 "Assets/_Assets/Scripts/GameInput.cs"
 "Assets/_Assets/Scripts/Player.cs"
 "Assets/_Assets/Scripts/PlayerAnimator.cs"
+"Assets/_Assets/Scripts/SelectedCounterVisual.cs"
 -langversion:9.0
 
 /deterministic
