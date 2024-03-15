@@ -188,17 +188,6 @@ public partial class @PlayerInputActions: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""ac17f466-76ba-4a10-b7b8-32aab08e3811"",
-                    ""path"": ""<Gamepad>/buttonSouth"",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Interact"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
-                    ""name"": """",
                     ""id"": ""8a6543fb-f4b2-44cf-a185-fada7d4f837b"",
                     ""path"": ""<Keyboard>/e"",
                     ""interactions"": """",
@@ -210,8 +199,19 @@ public partial class @PlayerInputActions: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""117c3b9a-97a2-4d49-afe2-e776f176fb18"",
-                    ""path"": ""<Gamepad>/buttonEast"",
+                    ""id"": ""ac17f466-76ba-4a10-b7b8-32aab08e3811"",
+                    ""path"": ""<Gamepad>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Interact"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""fa7b79bc-ed92-4992-bcde-fb330cb3d9df"",
+                    ""path"": ""<Keyboard>/f"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
@@ -221,8 +221,8 @@ public partial class @PlayerInputActions: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""fa7b79bc-ed92-4992-bcde-fb330cb3d9df"",
-                    ""path"": ""<Keyboard>/f"",
+                    ""id"": ""117c3b9a-97a2-4d49-afe2-e776f176fb18"",
+                    ""path"": ""<Gamepad>/buttonEast"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
