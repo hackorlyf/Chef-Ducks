@@ -415,6 +415,7 @@
 "Assets/_Assets/Scripts/UI/PlateIconsSingleUI.cs"
 "Assets/_Assets/Scripts/UI/PlateIconsUI.cs"
 "Assets/_Assets/Scripts/UI/ProgressBarUI.cs"
+"Assets/_Assets/Scripts/UI/TutorialUI.cs"
 "Assets/_Assets/Scripts/Visuals/ContainerCounterVisual.cs"
 "Assets/_Assets/Scripts/Visuals/CuttingCounterVisual.cs"
 "Assets/_Assets/Scripts/Visuals/PlateCompleteVisual.cs"
